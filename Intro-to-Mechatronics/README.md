@@ -1,7 +1,21 @@
+<a id="top"></a>
+
 # EML 4804 Introduction to Mechatronics 
 The following page highlights projects from Introduction to Mechatronics done in Spring 2026. 
 
+
+## Table of Contents
+
+1. [Project 1: Basic Circuit](#project-1-basic-circuit)
+2. [Project 2: Introduction to Raspberry Pi Pico W](#project-2-introduction-to-raspberry-pi-pico-w)
+3. [Project 3: Functions and Loops](#project-3-functions-and-loops)
+4. [Project 4: LCD, Digital and Analog Inputs, Serial Communication](#project-4-lcd-digital-and-analog-inputs-serial-communication)
+5. [Project 5: Using of Interrupts, Digital Output, and PWM Output](#project-5-using-of-interrupts-digital-output-and-pwm-output)
+6. [Project 6: DIY MPU 6050 Inclinometer](#project-6-diy-mpu-6050-inclinometer)
+
 ---
+
+<a id="project-1-basic-circuit"></a>
 
 ## Project 1: Basic Circuit (01/18/2026)
 
@@ -78,7 +92,11 @@ The main challenge I encountered during this project was ensuring that my Raspbe
 ### References
 [1] Durygin, Andriy. “Mechatronics with PICO | KiCad basics”. _YouTube_, uploaded by Mechatronics Fun, 6 September 2024, https://youtu.be/gl4FkAs9G-A?si=MX0BVFvXTePfWLe8. 
 
+[↑ Back to Table of Contents](#top)
+
 ---
+
+<a id="project-2-introduction-to-raspberry-pi-pico-w"></a>
 
 ## Project 2: Introduction to Raspberry Pi Pico W (01/31/2026)
 
@@ -140,7 +158,11 @@ The obstacle I encountered was understanding which pin number to use as my outpu
 ### References
 [1] Wikipedia. Morse code [Internet]. Wikipedia; 2026 Jan 30 [cited 2026 Jan 31]. Available from: https://en.wikipedia.org/wiki/Morse_code 
 
+[↑ Back to Table of Contents](#top)
+
 ---
+
+<a id="project-3-functions-and-loops"></a>
 
 ## Project 3: Functions and Loops (02/08/2026)
 
@@ -240,7 +262,11 @@ When I could not find the proper LCD symbol on KiCad, I went to YouTube to find 
 
 [2] Pcb Cupid. #13 How to create custom symbols in KiCad 7.0 with KLC | #PCBCupid [Internet]. YouTube; 2023 Apr 5 [cited 2026 Feb 08]. Available from: https://youtu.be/baCGoK8MuH0?si=hxxLmCfRjdxporrm 
 
+[↑ Back to Table of Contents](#top)
+
 ---
+
+<a id="project-4-lcd-digital-and-analog-inputs-serial-communication"></a>
 
 ## Project 4: LCD, Digital and Analog Inputs, Serial Communication (02/14/2026)
 
@@ -350,7 +376,11 @@ The main challenge I had was with properly counting the analog signals that went
 
 [4] Digi-Key. Digikey-kicad-library [Internet]. GitHub; 2022 Feb 2 [cited 2026 Feb 13]. Available from:  https://github.com/Digi-Key/digikey-kicad-library 
 
+[↑ Back to Table of Contents](#top)
+
 ---
+
+<a id="project-5-using-of-interrupts-digital-output-and-pwm-output"></a>
 
 ## Project 5: Using of Interrupts, Digital Output, and PWM Output (03/11/2026)
 
@@ -466,7 +496,11 @@ When I first ran the full code I created, I realized that the right LED did not 
 ### References
 [1] uPesy. How to use interrupts in MicroPython with a Pico RPi? [Internet]. uPesy: 2023 Feb 2 [cited 2026 Mar 11]. Available from: https://www.upesy.com/blogs/tutorials/hardware-interrupts-rpi-pico-on-micropython 
 
+[↑ Back to Table of Contents](#top)
+
 ---
+
+<a id="project-6-diy-mpu-6050-inclinometer"></a>
 
 ## Project 6: DIY MPU 6050 Inclinometer (03/22/2026)
 
@@ -667,6 +701,8 @@ I struggled to understand how to implement the digital low pass filter to the co
 [5]	2.2 display the level [Internet]. SunFounder; 2025 [cited 2026 Mar 21]. Available from: https://docs.sunfounder.com/projects/kepler-kit/en/latest/pyproject/py_led_bar.html
 
 [6]	Durygin, A. RP PICO and MPU 6050 inclinometer [Video]. YouTube: Mechatronics Fun; 2024 Oct 30 [cited 2026 Mar 22]. Available from: https://youtu.be/Pu4mByKgH_Y
+
+[↑ Back to Table of Contents](#top)
 
 ---
 
