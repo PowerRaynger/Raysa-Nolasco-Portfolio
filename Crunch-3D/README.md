@@ -1,4 +1,3 @@
----
 # C12 Crunch 3D
 
 Welcome to **C12 Crunch 3D: CAD & Modeling**! This interactive course introduces learners to Onshape, a 3D CAD software used in engineering, product design, and manufacturing. Participants will gain hands-on experience in 3D modeling and assemblies. The course covers essential Onshape tools and workflows, culminating in a final real-world design project.
