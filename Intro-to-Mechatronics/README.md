@@ -33,6 +33,7 @@ The purpose of Project #1 is to gain familiarity with the Raspberry PICO board, 
 
 ### Data and Discussion
 Table 1: 220 Ohm Resistor 
+
 Number of Capacitors	| Decay Time (s)	| LED Emission Intensity
 --- | --- | ---
 4	| 0.27	| Max Intensity/Bright
@@ -41,7 +42,8 @@ Number of Capacitors	| Decay Time (s)	| LED Emission Intensity
 1	| 0.13	| Max Intensity/Bright
 0	| 0.11	| Max Intensity/Bright
 
-Table 1: 10 kOhm Resistor 
+Table 2: 10 kOhm Resistor 
+
 Number of Capacitors |	Decay Time (s)	| LED Emission Intensity
 --- | ---| ---
 4	| 1.60 | Medium Intensity 
@@ -50,7 +52,8 @@ Number of Capacitors |	Decay Time (s)	| LED Emission Intensity
 1	| 0.56 | Medium Intensity 
 0	| 0.14 | Medium Intensity 
 
-Table 1: 100 kOhm Resistor 
+Table 3: 100 kOhm Resistor 
+
 Number of Capacitors |	Decay Time (s)	| LED Emission Intensity
 --- | --- | ---
 4	| 11.03	| Low Intensity/Barely Noticeable
@@ -234,6 +237,7 @@ When I could not find the proper LCD symbol on KiCad, I went to YouTube to find 
 
 ### References
 [1] SunFounder. 2.17 Show characters on I2 LCD1602 [Internet]. SunFounder; 2025 [cited 2026 Feb 08]. Available from: https://docs.sunfounder.com/projects/thales-kit/en/latest/micropython/liquid_crystal_display.html 
+
 [2] Pcb Cupid. #13 How to create custom symbols in KiCad 7.0 with KLC | #PCBCupid [Internet]. YouTube; 2023 Apr 5 [cited 2026 Feb 08]. Available from: https://youtu.be/baCGoK8MuH0?si=hxxLmCfRjdxporrm 
 
 ---
@@ -339,8 +343,11 @@ The main challenge I had was with properly counting the analog signals that went
 
 ### References
 [1] uPesy. Using I/O with MicroPython on the Pi Pico [Internet]. uPesy; 2023 Jan 23 [cited 2026 Feb 13]. Available from: https://www.upesy.com/blogs/tutorials/micropython-raspberry-pi-pico-gpio-pins-usage 
+
 [2] uPesy. Measure an analog voltage with the Pi Pico ADC in MicroPython [Internet]. uPesy; 2022 Dec 26 [cited 2026 Feb 13]. Available from: https://www.upesy.com/blogs/tutorials/micropython-raspberry-pi-pico-adc-usage-measure-voltage 
+
 [3] Geeks for Geeks. Python – output formatting [Internet]. Geeks for Geeks; 2025 Jul 11 [cited 2026 Feb 13]. Available from: https://www.geeksforgeeks.org/python/python-output-formatting/ 
+
 [4] Digi-Key. Digikey-kicad-library [Internet]. GitHub; 2022 Feb 2 [cited 2026 Feb 13]. Available from:  https://github.com/Digi-Key/digikey-kicad-library 
 
 ---
@@ -650,10 +657,15 @@ I struggled to understand how to implement the digital low pass filter to the co
 
 ### References
 [1]	Aircraft principal axes [Internet]. Wikipedia; 2025 Oct 22 [cited 2026 Mar 20]. Available from: https://en.wikipedia.org/wiki/Aircraft_principal_axes
+
 [2]	6.3 6-axis motion tracking [Internet]. SunFounder; 2025 [cited 2026 Mar 20]. Available from: https://docs.sunfounder.com/projects/kepler-kit/en/latest/pyproject/py_mpu6050.html
+
 [3]	Huang, M. Kepler-kit-for-raspberry-pi [Internet]. GitHub: SunFounder; 2025 Aug 21 [cited 2026 Mar 20]. Available from: https://github.com/sunfounder/kepler-kit/tree/main
+
 [4]	Durygin, A. 07-PICO sensors in mechatronics. 
+
 [5]	2.2 display the level [Internet]. SunFounder; 2025 [cited 2026 Mar 21]. Available from: https://docs.sunfounder.com/projects/kepler-kit/en/latest/pyproject/py_led_bar.html
+
 [6]	Durygin, A. RP PICO and MPU 6050 inclinometer [Video]. YouTube: Mechatronics Fun; 2024 Oct 30 [cited 2026 Mar 22]. Available from: https://youtu.be/Pu4mByKgH_Y
 
 ---
