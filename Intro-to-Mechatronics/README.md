@@ -260,7 +260,7 @@ When I could not find the proper LCD symbol on KiCad, I went to YouTube to find 
 ### References
 [1] SunFounder. 2.17 Show characters on I2 LCD1602 [Internet]. SunFounder; 2025 [cited 2026 Feb 08]. Available from: https://docs.sunfounder.com/projects/thales-kit/en/latest/micropython/liquid_crystal_display.html 
 
-[2] Pcb Cupid. #13 How to create custom symbols in KiCad 7.0 with KLC | #PCBCupid [Internet]. YouTube; 2023 Apr 5 [cited 2026 Feb 08]. Available from: https://youtu.be/baCGoK8MuH0?si=hxxLmCfRjdxporrm 
+[2] Pcb Cupid. #13 How to create custom symbols in KiCad 7.0 with KLC #PCBCupid [Internet]. YouTube; 2023 Apr 5 [cited 2026 Feb 08]. Available from: https://youtu.be/baCGoK8MuH0?si=hxxLmCfRjdxporrm 
 
 [↑ Back to Table of Contents](#top)
 
