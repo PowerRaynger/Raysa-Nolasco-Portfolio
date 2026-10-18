@@ -23,13 +23,13 @@ The purpose of Project #1 is to gain familiarity with the Raspberry PICO board, 
 - Tactile switch
 
 ### Picture 
-![Project1-SetUp](link "Project 1 Set Up")
+![Project1-SetUp](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project1-SetUp.jpg "Project 1 Set Up")
 
 ### Video Link
 [Project 1 Video](https://youtu.be/WMLkQLneUW4)
 
 ### Final Circuit Diagram
-![Project1-KiCad](link "Project 1 KiCad")
+![Project1-KiCad](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project1-KiCad.png "Project 1 KiCad")
 
 ### Data and Discussion
 Table 1: 220 Ohm Resistor 
@@ -90,13 +90,13 @@ The purpose of this home project is to get familiar with Python coding the RB Pi
 - Wires
 
 ### Picture 
-![Project2-SetUp](link "Project 2 Set Up")
+![Project2-SetUp](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project2-SetUp.png "Project 2 Set Up")
 
 ### Video Link
 [Project 2 Video](https://youtu.be/aAF2papouOw)
 
 ### Final Circuit Diagram
-![Project2-KiCad](link "Project 2 KiCad")
+![Project2-KiCad](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project2-KiCad.png "Project 2 KiCad")
 
 ### Code
 ```python
@@ -153,13 +153,13 @@ The purpose of this project is to learn how to incorporate functions and loops t
 - LCD stand (3d printed)
 
 ### Picture 
-![Project3-SetUp](link "Project 3 Set Up")
+![Project3-SetUp](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project3-SetUp.png "Project 3 Set Up")
 
 ### Video Link
 [Project 3 Video](https://youtu.be/ZXQEkVsZucQ)
 
 ### Final Circuit Diagram
-![Project3-KiCad](link "Project 3 KiCad")
+![Project3-KiCad](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project3-KiCad.jpg "Project 3 KiCad")
 
 ### Code
 ```python
@@ -255,19 +255,22 @@ The purpose of the project is to learn how to read digital and analog inputs fro
 
 ### Picture and Screenshots
 Circuit Set Up:
-![Project4-SetUp](link "Project 4 Set Up")
+
+![Project4-SetUp](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project4-SetUp.jpg "Project 4 Set Up")
 
 Serial Monitor:
-![Project4-SerialMonitor](link "Project 4 Serial Monitor")
+
+![Project4-SerialMonitor](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project4-SerialMonitor.png "Project 4 Serial Monitor")
 
 Serial Plotter:
-![Project4-SerialPlotter](link "Project 4 Serial Plotter")
+
+![Project4-SerialPlotter](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project4-SerialPlotter.png "Project 4 Serial Plotter")
 
 ### Video Link
 [Project 4 Video](https://youtu.be/oeC5DTwNnEU)
 
 ### Final Circuit Diagram
-![Project4-KiCad](link "Project 4 KiCad")
+![Project4-KiCad](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project4-KiCad.png "Project 4 KiCad")
 
 ### Code
 ```python
@@ -357,14 +360,14 @@ Learn how to incorporate interrupts in a MicroPython code with digital input pro
 - Hook-up wires
 - Breadboard
 
-### Picture and Screenshots
-![Project5-SetUp](link "Project 5 Set Up")
+### Picture 
+![Project5-SetUp](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project5-SetUp.png "Project 5 Set Up")
 
 ### Video Link
 [Project 5 Video](https://youtu.be/_pBchGXA32w)
 
 ### Final Circuit Diagram
-![Project5-KiCad](link "Project 5 KiCad")
+![Project5-KiCad](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project5-KiCad.png "Project 5 KiCad")
 
 ### Code
 ```python
@@ -473,18 +476,20 @@ The purpose of this project is to understand roll and pitch angles, how to deriv
 - Wires
 - Capacitor
 
-### Picture and Screenshots
+### Picture 
 Plotter Window: 
-![Project6-PlotterWindow](link "Project 6 Plotter Window")
+
+![Project6-PlotterWindow](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project6-PlotterWindow.png "Project 6 Plotter Window")
 
 Circuit Set Up: 
-![Project6-SetUp](link "Project 6 Set Up")
+
+![Project6-SetUp](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project6-SetUp.jpg "Project 6 Set Up")
 
 ### Video Link
 [Project 6 Video](https://youtu.be/VjyFVWdxhJI)
 
 ### Final Circuit Diagram
-![Project6-KiCad](link "Project 6 KiCad")
+![Project6-KiCad](https://github.com/PowerRaynger/Raysa-Nolasco-Portfolio/blob/main/Intro-to-Mechatronics/GitHub%20Images/Project6-KiCad.png "Project 6 KiCad")
 
 ### Code
 ```python
